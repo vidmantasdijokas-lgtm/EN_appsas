@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WordLearn</string>
+    <string name="start_button">Įjungti priminimus</string>
+    <string name="stop_button">Išjungti priminimus</string>
+    <string name="show_now_button">Rodyti žodį dabar</string>
+    <string name="channel_name">Naujas žodis</string>
+    <string name="channel_description">Kas valandą rodomas naujas anglų kalbos žodis</string>
+</resources>
